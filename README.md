@@ -138,4 +138,4 @@ A implementação das recomendações pode gerar:
 ## 🔟 Autor
 [**Jefferson Ferreira**](https://github.com/francaferreira/)  
 📧 jfrancaferreira10@gmail.com  
-[![LinkedIn](https://www.linkedin.com/in/jefferson-ferreira-ds/)
+(https://www.linkedin.com/in/jefferson-ferreira-ds/)
